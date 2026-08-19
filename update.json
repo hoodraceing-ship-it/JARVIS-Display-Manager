@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.2.0.zip.b64",
+  "version": "1.2.1",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.2.1.zip.b64",
   "encoding": "base64",
-  "sha256": "f28d11a4e74e50c85c703972c462fef9c9b06b9d3517ed838ee2d9092a28201c",
-  "notes": "Combined upgrade: editable individual scenes, improved JARVIS main telemetry, no-AMS A1 Mini layout, maintenance reminders, and browser one-click updates."
+  "sha256": "7dc4e95c82738f841ae9f0d7c781c3c1558168e29f19521a8f0e1b336aa0ce62",
+  "notes": "AMS removed from every display theme. Adds Abyssal Forge, Lunar Console '77, and Arcane Foundry with unique live-telemetry colors."
 }
