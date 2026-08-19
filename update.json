@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.4.1.zip.b64",
+  "version": "1.4.2",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.4.2.zip.b64",
   "encoding": "base64",
-  "sha256": "7643a5ce75db77fc4455a680b62bf44742fd27ebed91242ff68c92d499fea2fa",
-  "notes": "Repairs the one-click updater by publishing a whitespace-free release, accepting harmless Base64 whitespace, preventing cached update checks, and preserving real error details. Includes all 10 animated themes and touchscreen features from v1.4.0."
+  "sha256": "ac97c780f0b7e9a3b0b5937054883b1a17f46bc4590b9833a4b47cd46b0bdc1b",
+  "notes": "Forces a clean, version-stamped Docker rebuild and verifies the version running inside the container before success. This makes the 10 animated themes and new touchscreen UI actually appear, while retaining the repaired update package format."
 }
