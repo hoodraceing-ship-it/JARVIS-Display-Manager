@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.3.1.zip.b64",
+  "version": "1.3.2",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.3.2.zip.b64",
   "encoding": "base64",
-  "sha256": "2efca8d3ab67c40f5401c471eda91cb4d7b38b08f12e12c58bc48cd86ecf9488",
-  "notes": "Fixes the ESP32-2432S028R touchscreen by using its dedicated XPT2046 SPI pins and separate LCD/touch buses. Includes fresh two-point touch calibration."
+  "sha256": "b730d8ebb066bb40db887c2176341f5016c3df40b69e70f909110528474a89c9",
+  "notes": "Fixes the touchscreen firmware build by installing Paul Stoffregen's official XPT2046_Touchscreen v1.4 archive directly instead of requesting a nonexistent PlatformIO registry version."
 }
