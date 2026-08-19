@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.5.0.zip.b64",
+  "version": "1.6.0",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.6.0.zip.b64",
   "encoding": "base64",
-  "sha256": "95ab7a7254a64e4bc46557deb37dd338793a5b29080d413926bd056fa71b1015",
-  "notes": "Rebuilds all 10 concept themes as complete five-scene interface systems: Main, Heating, Loading, Unloading, and AMS. Live temperatures, progress, ETA, layers, material, maintenance, and AMS slots are integrated into each theme instead of sharing a bottom information panel. Includes automatic AMS event switching and a five-scene theme uploader."
+  "sha256": "e709c95c335da95f8b560e90c3f9451d3b5833703990acdb10bc735df3e99320",
+  "notes": "Adds a drag-and-resize widget editor with per-theme and per-scene layouts, plus the animated Spider-Tech: Stark Protocol and Galactic Forge theme families. Widgets can be added, removed, moved, resized, saved, and reset from the browser. No ESP32 reflash is required."
 }
