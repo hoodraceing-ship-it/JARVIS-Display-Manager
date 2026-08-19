@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.4.0.zip.b64",
+  "version": "1.4.1",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.4.1.zip.b64",
   "encoding": "base64",
-  "sha256": "a03ed7311f318193efb501d89468c5b7b57b266e829d8e6cdb90e2dc3610d986",
-  "notes": "Adds 10 animated themes with distinct live-data layouts, four automatically rotating information pages, vertical page-swipe gestures, top-zone shortcuts, and print-complete/offline alerts. Includes the v1.3.2 touchscreen dependency fix."
+  "sha256": "7643a5ce75db77fc4455a680b62bf44742fd27ebed91242ff68c92d499fea2fa",
+  "notes": "Repairs the one-click updater by publishing a whitespace-free release, accepting harmless Base64 whitespace, preventing cached update checks, and preserving real error details. Includes all 10 animated themes and touchscreen features from v1.4.0."
 }
