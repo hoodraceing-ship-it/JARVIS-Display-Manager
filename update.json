@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.4.2.zip.b64",
+  "version": "1.5.0",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.5.0.zip.b64",
   "encoding": "base64",
-  "sha256": "ac97c780f0b7e9a3b0b5937054883b1a17f46bc4590b9833a4b47cd46b0bdc1b",
-  "notes": "Forces a clean, version-stamped Docker rebuild and verifies the version running inside the container before success. This makes the 10 animated themes and new touchscreen UI actually appear, while retaining the repaired update package format."
+  "sha256": "95ab7a7254a64e4bc46557deb37dd338793a5b29080d413926bd056fa71b1015",
+  "notes": "Rebuilds all 10 concept themes as complete five-scene interface systems: Main, Heating, Loading, Unloading, and AMS. Live temperatures, progress, ETA, layers, material, maintenance, and AMS slots are integrated into each theme instead of sharing a bottom information panel. Includes automatic AMS event switching and a five-scene theme uploader."
 }
