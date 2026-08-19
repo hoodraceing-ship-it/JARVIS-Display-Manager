@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "package_url": "https://raw.githubusercontent.com/hoodraceing-ship-it/JARVIS-Display-Manager/main/releases/JARVIS-Display-Manager-v1.2.0.zip.b64",
+  "encoding": "base64",
+  "sha256": "f28d11a4e74e50c85c703972c462fef9c9b06b9d3517ed838ee2d9092a28201c",
+  "notes": "Combined upgrade: editable individual scenes, improved JARVIS main telemetry, no-AMS A1 Mini layout, maintenance reminders, and browser one-click updates."
+}
